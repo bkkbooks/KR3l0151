@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3l0151/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宣驗記丁零相州鄴城中有丈六銅立相一軀賊丁零者志性凶悖無有信心乃彎弓射像箭中像面血下交流雖加瑩飾血痕猶在又選五百力士令挽仆地消鑄為銅擬充器用乃口發大聲響烈雷震力士亡魂喪膽人皆仆地迷悶宛轉怖不能起由是賊侶慚惶歸信者衆丁零後時著疾被誅乃死王遵唐王遵者河內人也兄弟三人並時疾甚宅有鵲巢旦夕翔鳴忿其喧噪兄弟共惡之及病差因張鵲斷舌而放之既而兄弟皆患口齒之疾家漸貧以至行乞逐賊元嘉元年建安郡山賊百餘人掩破郡治抄掠百姓子女資産遂入佛圖搜掠財寶先是諸供養具悉封置一室賊破戶忽有蜜蜂數萬頭從衣簏出同時噬螫群賊身首腫痛眼皆盲合先諸所掠皆棄而走
+  hash: sha256:67ce0053b692c93dd58ae4da68f48509fd06d3f1caa1b76f5ced9b21bc101e93
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3l0151_CHANT_001-1a.1-h}
+metadata:
+  title: 宣驗記一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3l0151.xml
+hash: sha256:94324d93e147d7c3c89603a6ad5581c218552fe93438b9f73fa35a07878023ed
